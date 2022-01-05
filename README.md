@@ -1,1 +1,1 @@
-# Bookstore-Management-Information-System-MIS-
+# Bookstore Management Information System
